@@ -1,6 +1,6 @@
 function subtractingNums(a, b) {
     // write your code in here!
-    return a + b;
+
 }
 
 
